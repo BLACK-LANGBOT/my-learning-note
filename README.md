@@ -1,6 +1,6 @@
 # 我的学习笔记📒
 
-你好！我是[BLACK-LANGBOT],一个正在学习AI 的pm
+你好！我是BLACK-LANGBOT,一个正在学习AI 的pm
 
 ## 我在学什么？
 
